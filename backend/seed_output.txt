@@ -1,0 +1,5 @@
+﻿Starting seed script...
+MONGO_URI: Defined
+MongoDB Connected
+Culture collection cleared
+Seeded 38 culture items successfully

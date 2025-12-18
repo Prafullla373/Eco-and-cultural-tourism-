@@ -1,0 +1,36 @@
+MongoDB Connected
+Found 33 locations.
+Updated Dassam Falls
+Updated Netarhat
+Updated Hundru Falls
+Updated Patratu Valley & Dam
+Updated Parasnath Hills
+Updated Betla National Park
+Updated Jonha Falls
+Updated Jagannath Temple
+Updated Rock Garden
+Updated Deoghar (Baidyanath Dham)
+Updated Hirni Falls
+Updated Panchghagh Falls
+Updated Lodh Falls
+Updated Usri Falls
+Updated Sita Falls
+Updated Kanke Dam
+Updated Dimna Lake
+Updated Tilaiya Dam
+Updated Maithon Dam
+Updated Chandil Dam
+Updated Baidyanath Dham
+Updated Basukinath Temple
+Updated Rajrappa Temple
+Updated Pahari Mandir
+Updated Sun Temple
+Updated Maluti Temples
+Updated Dalma Wildlife Sanctuary
+Updated Hazaribagh Wildlife Sanctuary
+Updated Tagore Hill
+Updated Canary Hill
+Updated Jubilee Park
+Updated Tribal Museum
+Updated State Museum Hotwar
+Done.

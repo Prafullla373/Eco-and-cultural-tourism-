@@ -1,0 +1,9 @@
+"Status: 200"
+"Count: 33"
+{
+  "name": "State Museum Hotwar",
+  "coordinates": {
+    "lat": 23.3833,
+    "lng": 85.3667
+  }
+}

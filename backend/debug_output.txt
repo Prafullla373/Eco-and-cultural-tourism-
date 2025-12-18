@@ -1,0 +1,135 @@
+MongoDB Connected
+Found 33 locations.
+Name: Dassam Falls
+  mapLocation: undefined
+  coordinates: {"lat":23.1467,"lng":85.4744}
+-----------------------------------
+Name: Netarhat
+  mapLocation: undefined
+  coordinates: {"lat":23.4796,"lng":84.2663}
+-----------------------------------
+Name: Hundru Falls
+  mapLocation: undefined
+  coordinates: {"lat":23.4446,"lng":85.6558}
+-----------------------------------
+Name: Patratu Valley & Dam
+  mapLocation: undefined
+  coordinates: {"lat":23.6333,"lng":85.2833}
+-----------------------------------
+Name: Parasnath Hills
+  mapLocation: undefined
+  coordinates: {"lat":23.9611,"lng":86.1264}
+-----------------------------------
+Name: Betla National Park
+  mapLocation: undefined
+  coordinates: {"lat":23.8833,"lng":84.1833}
+-----------------------------------
+Name: Jonha Falls
+  mapLocation: undefined
+  coordinates: {"lat":23.4167,"lng":85.6167}
+-----------------------------------
+Name: Jagannath Temple
+  mapLocation: undefined
+  coordinates: {"lat":23.3333,"lng":85.3}
+-----------------------------------
+Name: Rock Garden
+  mapLocation: undefined
+  coordinates: {"lat":23.3833,"lng":85.3167}
+-----------------------------------
+Name: Deoghar (Baidyanath Dham)
+  mapLocation: undefined
+  coordinates: {"lat":24.4833,"lng":86.7}
+-----------------------------------
+Name: Hirni Falls
+  mapLocation: undefined
+  coordinates: {"lat":22.9833,"lng":85.2333}
+-----------------------------------
+Name: Panchghagh Falls
+  mapLocation: undefined
+  coordinates: {"lat":23,"lng":85}
+-----------------------------------
+Name: Lodh Falls
+  mapLocation: undefined
+  coordinates: {"lat":23.5333,"lng":84.1667}
+-----------------------------------
+Name: Usri Falls
+  mapLocation: undefined
+  coordinates: {"lat":24.1833,"lng":86.3}
+-----------------------------------
+Name: Sita Falls
+  mapLocation: undefined
+  coordinates: {"lat":23.45,"lng":85.6}
+-----------------------------------
+Name: Kanke Dam
+  mapLocation: undefined
+  coordinates: {"lat":23.4,"lng":85.3167}
+-----------------------------------
+Name: Dimna Lake
+  mapLocation: undefined
+  coordinates: {"lat":22.85,"lng":86.25}
+-----------------------------------
+Name: Tilaiya Dam
+  mapLocation: undefined
+  coordinates: {"lat":24.3167,"lng":85.5167}
+-----------------------------------
+Name: Maithon Dam
+  mapLocation: undefined
+  coordinates: {"lat":23.7833,"lng":86.8167}
+-----------------------------------
+Name: Chandil Dam
+  mapLocation: undefined
+  coordinates: {"lat":22.9667,"lng":86.05}
+-----------------------------------
+Name: Baidyanath Dham
+  mapLocation: undefined
+  coordinates: {"lat":24.4922,"lng":86.7003}
+-----------------------------------
+Name: Basukinath Temple
+  mapLocation: undefined
+  coordinates: {"lat":24.3833,"lng":87.0833}
+-----------------------------------
+Name: Rajrappa Temple
+  mapLocation: undefined
+  coordinates: {"lat":23.6333,"lng":85.7167}
+-----------------------------------
+Name: Pahari Mandir
+  mapLocation: undefined
+  coordinates: {"lat":23.3667,"lng":85.3}
+-----------------------------------
+Name: Sun Temple
+  mapLocation: undefined
+  coordinates: {"lat":23.1833,"lng":85.55}
+-----------------------------------
+Name: Maluti Temples
+  mapLocation: undefined
+  coordinates: {"lat":24.1667,"lng":87.6833}
+-----------------------------------
+Name: Dalma Wildlife Sanctuary
+  mapLocation: undefined
+  coordinates: {"lat":22.9,"lng":86.2}
+-----------------------------------
+Name: Hazaribagh Wildlife Sanctuary
+  mapLocation: undefined
+  coordinates: {"lat":24,"lng":85.3667}
+-----------------------------------
+Name: Tagore Hill
+  mapLocation: undefined
+  coordinates: {"lat":23.3833,"lng":85.3333}
+-----------------------------------
+Name: Canary Hill
+  mapLocation: undefined
+  coordinates: {"lat":24,"lng":85.35}
+-----------------------------------
+Name: Jubilee Park
+  mapLocation: undefined
+  coordinates: {"lat":22.8,"lng":86.1833}
+-----------------------------------
+Name: Tribal Museum
+  mapLocation: undefined
+  coordinates: {"lat":23.3667,"lng":85.3333}
+-----------------------------------
+Name: State Museum Hotwar
+  mapLocation: undefined
+  coordinates: {"lat":23.3833,"lng":85.3667}
+-----------------------------------
+Done.
